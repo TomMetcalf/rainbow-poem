@@ -1,8 +1,10 @@
-The Rainbow
+The Rainbow, the unicorn and the ponies
 
 Red
 
 Orange
+
+Pony
 
 Yellow
 
@@ -12,11 +14,13 @@ Green
 
 Blue
 
+Pony
+
 Indigo
 
 Violet
 
-These are the colours of the rainbow...and a unicorn.
+These are the colours of the rainbow...and a unicorn...and some ponies.
 
 Double rainbow!
 
