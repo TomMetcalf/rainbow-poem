@@ -6,6 +6,8 @@ Orange
 
 Yellow
 
+Unicorn
+
 Green
 
 Blue
@@ -14,4 +16,4 @@ Indigo
 
 Violet
 
-These are the colours of the rainbow.
+These are the colours of the rainbow...and a unicorn.
